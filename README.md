@@ -17,6 +17,8 @@
 - Storing user preferences in one HTML file and applying them in another.
 
 - Saving shopping cart contents and displaying them on a checkout page.
+- code link
+- https://docs.google.com/document/d/15rBfkqCmzUqZfjBN289C4r8ZtFvTlvYeTtkADAEe6xA/edit?usp=sharing
 
 ## Technologies Used
 
@@ -24,6 +26,4 @@
 
 - JavaScript: For interacting with the browser's storage mechanisms and transferring data.
 
-## Code Link 
 
-https://docs.google.com/document/d/15rBfkqCmzUqZfjBN289C4r8ZtFvTlvYeTtkADAEe6xA/edit?usp=sharing
